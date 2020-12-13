@@ -1,3 +1,3 @@
-# jasmineBoilerplate
+# Jasmine Boilerplate
 
-jasmine testing
+Jasmine testing
